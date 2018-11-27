@@ -5,3 +5,10 @@
 /Users/playourheartout/Desktop/WordCounter.Solution/WordCounter/obj/Debug/netcoreapp1.1/WordCounter.AssemblyInfo.cs
 /Users/playourheartout/Desktop/WordCounter.Solution/WordCounter/obj/Debug/netcoreapp1.1/WordCounter.dll
 /Users/playourheartout/Desktop/WordCounter.Solution/WordCounter/obj/Debug/netcoreapp1.1/WordCounter.pdb
+/Users/staff/Desktop/lina/grading/c/wk1/chris-rudnicky/WordCounter/bin/Debug/netcoreapp1.1/WordCounter.deps.json
+/Users/staff/Desktop/lina/grading/c/wk1/chris-rudnicky/WordCounter/bin/Debug/netcoreapp1.1/WordCounter.dll
+/Users/staff/Desktop/lina/grading/c/wk1/chris-rudnicky/WordCounter/bin/Debug/netcoreapp1.1/WordCounter.pdb
+/Users/staff/Desktop/lina/grading/c/wk1/chris-rudnicky/WordCounter/obj/Debug/netcoreapp1.1/WordCounter.csproj.CoreCompileInputs.cache
+/Users/staff/Desktop/lina/grading/c/wk1/chris-rudnicky/WordCounter/obj/Debug/netcoreapp1.1/WordCounter.AssemblyInfo.cs
+/Users/staff/Desktop/lina/grading/c/wk1/chris-rudnicky/WordCounter/obj/Debug/netcoreapp1.1/WordCounter.dll
+/Users/staff/Desktop/lina/grading/c/wk1/chris-rudnicky/WordCounter/obj/Debug/netcoreapp1.1/WordCounter.pdb
